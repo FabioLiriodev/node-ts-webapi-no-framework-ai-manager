@@ -164,7 +164,7 @@ Durante o desenvolvimento foram utilizados os seguintes conceitos:
 
 ```bash
 
-git clone <https://github.com/FabioLiriodev/node-ts-webapp-no-framework-ai-manager>
+git clone <https://github.com/FabioLiriodev/node-ts-webapi-no-framework-ai-manager>
 
 ```
 
