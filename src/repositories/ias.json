@@ -1,0 +1,63 @@
+
+[
+  {
+    "IAName": "ChatGPT",
+    "link": "https://chatgpt.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+    "categories": ["texto", "imagem", "vídeo", "conteúdo"]
+  },
+  {
+    "IAName": "Gemini",
+    "link": "https://gemini.google.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg",
+    "categories": ["texto", "imagem", "vídeo", "áudio"]
+  },
+  {
+    "IAName": "Claude",
+    "link": "https://claude.ai/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Anthropic_Claude_logo.svg/1024px-Anthropic_Claude_logo.svg.png",
+    "categories": ["texto", "conteúdo"]
+  },
+  {
+    "IAName": "Midjourney",
+    "link": "https://www.midjourney.com/home",
+    "logo": "https://img.icons8.com/3d-fluency/1200/midjourney.jpg",
+    "categories": ["imagem"]
+  },
+  {
+    "IAName": "Perplexity",
+    "link": "https://www.perplexity.ai/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Perplexity_AI_logo.svg",
+    "categories": ["texto", "conteúdo"]
+  },
+  {
+    "IAName": "Sora",
+    "link": "https://openai.com/sora",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/3840px-OpenAI_Logo.svg.png",
+    "categories": ["vídeo"]
+  },
+  {
+    "IAName": "ElevenLabs",
+    "link": "https://elevenlabs.io/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ElevenLabs_logo.svg",
+    "categories": ["áudio"]
+  },
+  {
+    "IAName": "Suno",
+    "link": "https://suno.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Suno_logo.svg/1024px-Suno_logo.svg.png",
+    "categories": ["áudio"]
+  },
+  {
+    "IAName": "Adobe Firefly",
+    "link": "https://firefly.adobe.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Firefly_Logo.svg",
+    "categories": ["imagem", "vídeo", "mockups"]
+  },
+  {
+    "IAName": "Canva Magic Studio",
+    "link": "https://www.canva.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg",
+    "categories": ["imagem", "vídeo", "mockups", "texto"]
+  }
+]
